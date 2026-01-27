@@ -6,8 +6,8 @@
 
 **Solution:**
 
-```ssh -p 2220 bandit0@bandit.labs.overthewire.org
-
+```
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 
 **Password:** bandit0

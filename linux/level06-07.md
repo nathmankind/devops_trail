@@ -25,15 +25,15 @@ cat /var/lib/dpkg/info/bandit7.password
 
 ## Commands & Explanation
 
--`find / -type f` Searches for regular files starting from the root (`/`) directory, covering the entire system.
+- `find / -type f` Searches for regular files starting from the root (`/`) directory, covering the entire system.
 
--`-user bandit7` Filters results to files owned by the user bandit7
+- `-user bandit7` Filters results to files owned by the user bandit7
 
--`-group bandit6` Filters results to files belonging to the group bandit6.
+- `-group bandit6` Filters results to files belonging to the group bandit6.
 
--`-size 33c` Matches files that are exactly 33 bytes in size (c specifies bytes).
+- `-size 33c` Matches files that are exactly 33 bytes in size (c specifies bytes).
 
--`2> /dev/null` Redirects permission-denied errors to /dev/null, preventing cluttered output when scanning protected directories.
+- `2> /dev/null` Redirects permission-denied errors to /dev/null, preventing cluttered output when scanning protected directories.
 
 - `cat /var/lib/dpkg/info/bandit7.password` Displays the contents of the identified file.
 

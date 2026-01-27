@@ -37,7 +37,11 @@ cat /var/lib/dpkg/info/bandit7.password
 
 - `cat /var/lib/dpkg/info/bandit7.password` Displays the contents of the identified file.
 
+---
+
 **Password:** `morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj`
+
+---
 
 ## Key Takeaways
 

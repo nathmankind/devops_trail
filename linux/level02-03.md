@@ -23,6 +23,8 @@ cat './--spaces in this filename--'
 - `Quoting the filename ensures the shell treats it as a single argument
 - `cat` reads and displays the file contents
 
+**Password:** MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
 ## Key Takeaways
 
 - Spaces in filenames can break commands if not handled properly

@@ -20,6 +20,8 @@ cat ./-
 - `./-` explicitly tells the shell to treat `-` as a filename, not an option
 - `cat` reads and displays the file contents
 
+**Password:** 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
 ## Key Takeaways
 
 - The shell may interpret filenames as command options

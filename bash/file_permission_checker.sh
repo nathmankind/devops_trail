@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Script to check if a file is readable, writable, and executable
+# Script to check if a file exists and check is readable, writable, 
+# and executable (basically, its permissions)
 
 check_file_permissions(){
     echo "Enter file name: "
